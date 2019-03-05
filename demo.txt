@@ -1,3 +1,4 @@
 Hello everyone !
 
 This is text file.
+Here is some text that we add to demo.txt
